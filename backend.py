@@ -4,5 +4,8 @@ class excercise:
         self.details = dict(values)
         self.timestamp = time
 class day():
-    """contains excercises"""
+    """contains excercises and a date"""
+    pass
+class week():
+    """contains days"""
     pass
