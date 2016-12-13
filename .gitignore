@@ -1,4 +1,3 @@
-.vscode
 # Compiled source #
 ###################
 *.com
@@ -36,4 +35,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-settings.json
+
+.vscode/settings.json
